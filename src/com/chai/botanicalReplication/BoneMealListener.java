@@ -1,4 +1,4 @@
-package com.raus.botanicalReplication;
+package com.chai.botanicalReplication;
 
 import org.bukkit.GameMode;
 import org.bukkit.Material;

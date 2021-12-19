@@ -1,4 +1,4 @@
-package com.raus.botanicalReplication;
+package com.chai.botanicalReplication;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

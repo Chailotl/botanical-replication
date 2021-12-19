@@ -1,7 +1,7 @@
 name: BotanicalReplication
 description: Small flowers can be replicated with bone meal like big flowers.
-author: Raus
-main: com.raus.botanicalReplication.Main
+author: Chai
+main: com.chai.botanicalReplication.Main
 version: 1.0
 api-version: 1.15
 
